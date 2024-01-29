@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#jarak {
+    margin-top: 45px;
+}
+
+.container button a {
+    color: black;
+}
